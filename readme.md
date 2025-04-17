@@ -37,4 +37,4 @@ This Python program handles two main tasks:
 
 Here’s what the program looks like when reading from `names.txt` and writing to a new file:
 
-![Output Screenshot](Screenshot from 2025-04-17 17-46-37.png)
+![Output Screenshot](output.png)
