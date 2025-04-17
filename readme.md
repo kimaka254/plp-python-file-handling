@@ -26,7 +26,7 @@ This Python program handles two main tasks:
 
 1. Download or clone the repository.
 2. Ensure you have Python 3.x installed on your system.
-3. Create a file (e.g., `myexample.txt`) to test the script, or use the existing (names.txt) file.
+3. Create a file (e.g., `myexample.txt`) to test the script, or use the existing ( `names.txt`) file.
 4. Run the program using the command:
 
    ```bash
